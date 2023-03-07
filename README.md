@@ -1,2 +1,1 @@
-# cpp
-CPP practice
+# CPP Practice Repository.
